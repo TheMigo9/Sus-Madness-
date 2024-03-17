@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "anim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Anim-Scream",
+			"fps": 24,
+			"name": "anim",
+			"indices": [
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				123,
+				124,
+				125
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Anim-Scream-Loop",
+			"fps": 24,
+			"name": "anim",
+			"indices": [
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				123,
+				124,
+				125
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Anim",
+			"loop": false,
+			"name": "anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RED_ANIM",
+	"position": [
+		-230,
+		330
+	],
+	"healthicon": "impostor-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		106,
+		18,
+		29
+	],
+	"camera_position": [
+		-250,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.43
+}
